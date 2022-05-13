@@ -84,6 +84,45 @@ const circleScale = 10;
 
 // Our main array. You must add your details to this.
 const scenes = [
+    
+      {
+        name: 'akuaku', // Must mirror class name
+        author: 'João Santos', // Your name
+        codepenprofile: 'jotavejv', // Your Codepen profile link
+        twitterprofile: '_jotavejv', // Your Codepen profile link
+        answer: 'Crash Bandicoot', // The correct game, we can obfuscate this later if we want to hide answers
+        backgroundColor: 'rgb(67, 34, 56)', // Page background color for your scene
+        hint: 'UKA UKA is FREEEEE!'
+    },
+    
+      {
+        name: 'akuaku', // Must mirror class name
+        author: 'João Santos', // Your name
+        codepenprofile: 'jotavejv', // Your Codepen profile link
+        twitterprofile: '_jotavejv', // Your Codepen profile link
+        answer: 'Crash Bandicoot', // The correct game, we can obfuscate this later if we want to hide answers
+        backgroundColor: 'rgb(67, 34, 56)', // Page background color for your scene
+        hint: 'UKA UKA is FREEEEE!'
+    },
+    
+      {
+        name: 'akuaku', // Must mirror class name
+        author: 'João Santos', // Your name
+        codepenprofile: 'jotavejv', // Your Codepen profile link
+        twitterprofile: '_jotavejv', // Your Codepen profile link
+        answer: 'Crash Bandicoot', // The correct game, we can obfuscate this later if we want to hide answers
+        backgroundColor: 'rgb(67, 34, 56)', // Page background color for your scene
+        hint: 'UKA UKA is FREEEEE!'
+    },
+      {
+        name: 'akuaku', // Must mirror class name
+        author: 'João Santos', // Your name
+        codepenprofile: 'jotavejv', // Your Codepen profile link
+        twitterprofile: '_jotavejv', // Your Codepen profile link
+        answer: 'Crash Bandicoot', // The correct game, we can obfuscate this later if we want to hide answers
+        backgroundColor: 'rgb(67, 34, 56)', // Page background color for your scene
+        hint: 'UKA UKA is FREEEEE!'
+    },
     {
         name: 'akuaku', // Must mirror class name
         author: 'João Santos', // Your name
